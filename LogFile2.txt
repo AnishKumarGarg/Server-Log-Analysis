@@ -1,0 +1,21 @@
+Username |IP Address    |Timestamp	           |Session Duration|Login Type        |Status  | Login location --------------------------------------------------------------------------------------------------------------
+jsmith	 |192.168.1.10  |2024-06-24 08:00:00AM |2 hours         |Remote VPN	       |Success | Bangalore
+alee	 |10.1.1.15     |2024-06-24 08:05:00AM |3.5 hours       |Local Workstation |Success | Dubai
+bjohnson |172.16.20.5   |2024-06-24 08:10:00AM |4 hours         |Remote Desktop    |Success | Dubai
+klee	 |187.168.0.100 |2024-06-24 08:15:00PM |-               |Remote VPN        |Failed  | Pakistan
+pchan	 |10.0.0.55     |2024-06-24 08:20:00AM |7 hours         |Local Workstation |Success | Bangalore
+rsmith	 |192.168.1.70  |2024-06-24 08:25:00AM |1.5 hours       |Remote Desktop    |Success | Dubai
+klee	 |187.168.0.100 |2024-06-24 08:30:00AM |-	            |Remote Desktop    |Failed  | Pakistan
+jdoe	 |10.1.1.20     |2024-06-24 08:35:00AM |2.5 hours       |Local Workstation |Success | Bangalore
+klee     |187.168.0.100 |2024-06-24 08:40:00AM |3 hours         |Remote VPN	       |Failed  | Pakistan
+klee	 |187.168.0.100 |2024-06-24 08:45:00PM |7 hour          |Remote VPN        |Success | Pakistan
+aallen	 |10.0.0.60	    |2024-06-24 08:50:00AM |2 hours         |Local Workstation |Success | Dubai
+rsmith	 |192.168.1.70  |2024-06-24 08:55:00AM |4 hours         |Remote Desktop	   |Success | Dubai
+ksmith	 |192.168.1.50  |2024-06-24 09:00:00PM |-	            |Remote VPN        |Failed  | Pakistan
+rjohnson |10.1.1.25     |2024-06-24 09:05:00AM |3 hours         |Local Workstation |Success | Dubai
+pjones   |172.16.50.18  |2024-06-24 09:10:00AM |2 hours         |Remote VPN        |Success | Bangalore
+tlee	 |192.168.3.40  |2024-06-24 09:15:00AM |1.5 hours       |Remote Desktop	   |Success | Dubai
+dchen	 |10.0.0.70	    |2024-06-24 09:20:00AM |2 hours         |Local Workstation |Success | Bangalore
+klee     |187.168.0.100 |2024-06-24 09:25:00PM |-	            |Remote VPN        |Failed  | Pakistan
+rsmith   |192.168.1.70  |2024-06-24 09:30:00AM |7 hour          |Remote Desktop    |Success | Dubai
+kallen	 |10.1.1.30	    |2024-06-24 09:35:00AM |2.5 hours       |Local Workstation |Success | Bangalore
