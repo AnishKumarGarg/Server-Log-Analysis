@@ -181,13 +181,26 @@ def OddTime(log_file_path="LogFile2.txt"):
 
 
 # Call the function to test
+print("Choose what you want to perform...")
+print("1 -> Filter by network addreess")
+print("2 -> Filter by Login Location")
+print("3 -> Filter by Session Duration")
+print("4 -> Filter by number of failed login attempts")
+print("5 -> Filter by time of login")
+d=int(input("Enter a number... "))
+
 print()
-networkAddress()
+if(d==1):
+    networkAddress() #1
 print()
-LoginLocation()
+if(d==2):
+    LoginLocation() #2
 print()
-SessionDuration()
-print() 
-MultipleFailedLogin()
+if(d==3):
+    SessionDuration() #3
 print()
-OddTime()
+if(d==4): 
+    MultipleFailedLogin() #4
+print()
+if(d==5):
+    OddTime() #5
